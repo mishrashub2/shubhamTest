@@ -22,7 +22,7 @@ namespace shubhamTest.Data
                 new Cartest("Amravati", 70),
                 new Cartest("Kolhapur", 80),
                 new Cartest("Latur", 90),
-                new Cartest("Sangli", 100)
+                new Cartest("Sangli", 200)
             };
         }
     }
