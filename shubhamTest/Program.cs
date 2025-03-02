@@ -9,6 +9,12 @@
             Console.WriteLine("Shhubham is hard working man");
             Console.WriteLine("_______________________________");
             Console.ReadLine();
-        }
+
+            while(true) {
+                var command = Console.ReadLine();
+                if(string.Equals("quir", command, StringComparison.OrdinalIgnoreCase))
+                {
+                   break;
+                }
     }
 }
